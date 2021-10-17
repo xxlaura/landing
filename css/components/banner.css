@@ -1,0 +1,36 @@
+.banner {
+  color: #FDFCE5;
+  background-size: 100%;
+}
+
+.container {
+  padding: 76px 81px;
+  width: 50%;
+}
+
+.container a {
+  text-decoration: none;
+  color: #798777;
+  padding: 10px 20px;
+  background-color: #BDD2B6;
+  border-radius: 50px;
+}
+
+.container a:hover {
+  color: #BDD2B6;
+  background-color: #798777;
+}
+
+.container h1 {
+  margin: 0;
+  font-weight: bolder;
+  word-spacing: 5px;
+}
+
+.container p {
+  margin: 0;
+  margin-bottom: 30px;
+  font-weight: lighter;
+  text-decoration: underline;
+  /* border-bottom: 2px solid #BDD2B6; */
+}

@@ -1,0 +1,32 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;600;700;800&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
+@import url("components/banner.css");
+@import url("components/cards.css");
+@import url("components/footer.css");
+
+/* Utilities */
+body {
+  margin: 0;
+  /* font-family: 'Montserrat', sans-serif; */
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+h1 {
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+h2, h3, h4 {
+  /* font-family: 'Montserrat', sans-serif; */
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
